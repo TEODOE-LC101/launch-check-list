@@ -1,0 +1,23 @@
+{
+  "name": "launch-check-list",
+  "version": "1.0.0",
+  "description": "4.10.3. Generate the LC04 Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TEODOE-LC101/launch-check-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TEODOE-LC101/launch-check-list/issues"
+  },
+  "homepage": "https://github.com/TEODOE-LC101/launch-check-list#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
